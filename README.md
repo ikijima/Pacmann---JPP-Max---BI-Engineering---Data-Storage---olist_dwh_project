@@ -1,6 +1,6 @@
 # Pacmann---JPP-Max---BI-Engineering---Data-Storage---olist_dwh_project
 
-*Test runs and answers can be found in the Pacmann jupyter notebook inside this repo*
+*Test runs and answers can be found in the **Pacmann jupyter notebook** inside this repo*
 
 This project is an attempt to design a data warehouse and data pipeline for an e-commerce platform. Olist, the e-commerce in question, is a Brazilian venture, connecting various sellers and customers across the nation. Therefore, the need for a robust data warehouse and data pipeline design is of utmost importance. Here, we are trying to provide the solution for those two concerns.
 
